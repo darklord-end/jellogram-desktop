@@ -1,4 +1,4 @@
-# <img src="https://github.com/darklord-end/jellogram-desktop/blob/dev/Icon.png" width="32" height="32" align="center"> JelloGram – Fork of official Telegram Desktop for Jellogram servers
+# <img src="https://github.com/darklord-end/jellogram-desktop/blob/dev/Icon.png" width="64" height="64" align="Top"> JelloGram Desktop – Fork of official Telegram Desktop for Jellogram servers
 
 ![Version](https://img.shields.io/badge/version-latest-blue?style=flat-square&label=version&logo=telegram)
 [![Build Status Windows](https://github.com/darklord-end/jellogram-desktop/actions/workflows/windows.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/windows.yml)
