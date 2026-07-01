@@ -1,15 +1,23 @@
-# JelloGram – Fork of offical telegram desktop for Jellogram servers
+# JelloGram – Fork of official Telegram Desktop for Jellogram servers
+
+[![Version](https://img.shields.io/badge/version-6.7.8-blue)](https://github.com/darklord-end/jellogram-desktop/releases)
+[![Build Status](https://github.com/darklord-end/jellogram-desktop/actions/workflows/windows.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/windows.yml)
+[![Build Status](https://github.com/darklord-end/jellogram-desktop/actions/workflows/macos.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/macos.yml)
+[![Build Status](https://github.com/darklord-end/jellogram-desktop/actions/workflows/linux.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/linux.yml)
 
 This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
 
-[![Version](https://badge.fury.io/gh/telegramdesktop%2Ftdesktop.svg)](https://github.com/telegramdesktop/tdesktop/releases)
-[![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/Windows./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
-[![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/MacOS./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
-[![Build Status](https://github.com/telegramdesktop/tdesktop/workflows/Linux./badge.svg)](https://github.com/telegramdesktop/tdesktop/actions)
-
-[![Preview of Telegram Desktop][preview_image]][preview_image_url]
-
 The source code is published under GPLv3 with OpenSSL exception, the license is available [here][license].
+
+## About JelloGram
+
+JelloGram is a community-driven fork of Telegram Desktop, adapted for use with Jellogram servers. It retains all the core features of the original client while providing compatibility with custom server endpoints.
+
+## Resources
+
+- [Source Code](https://github.com/darklord-end/jellogram-desktop)
+- [Issue Tracker](https://github.com/darklord-end/jellogram-desktop/issues)
+- [Telegram Official Website][telegram]
 
 ## Third-party
 
@@ -37,20 +45,12 @@ The source code is published under GPLv3 with OpenSSL exception, the license is 
 * Hunspell ([LGPL](https://github.com/hunspell/hunspell/blob/master/COPYING.LESSER))
 * Ada ([Apache License 2.0](https://github.com/ada-url/ada/blob/main/LICENSE-APACHE))
 
-## Build instructions
+## License
 
-* [Windows (32-bit and 64-bit)][win]
-* [macOS][mac]
-* [GNU/Linux using Docker][linux]
+This project is licensed under the GPLv3 with OpenSSL exception – see the [LICENSE](https://github.com/darklord-end/jellogram-desktop/blob/dev/LICENSE) file for details.
 
-[//]: # (LINKS)
+[mytelegram]: https://github.com/loyldg/mytelegram
 [telegram]: https://telegram.org
-[telegram_desktop]: https://desktop.telegram.org
 [telegram_api]: https://core.telegram.org
 [telegram_proto]: https://core.telegram.org/mtproto
-[license]: LICENSE
-[win]: docs/building-win.md
-[mac]: docs/building-mac.md
-[linux]: docs/building-linux.md
-[preview_image]: https://github.com/telegramdesktop/tdesktop/blob/dev/docs/assets/preview.png "Preview of Telegram Desktop"
-[preview_image_url]: https://raw.githubusercontent.com/telegramdesktop/tdesktop/dev/docs/assets/preview.png
+[license]: https://github.com/darklord-end/jellogram-desktop/blob/dev/LICENSE
