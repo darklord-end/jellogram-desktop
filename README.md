@@ -6,7 +6,7 @@
 [![Build Status Linux](https://github.com/darklord-end/jellogram-desktop/actions/workflows/linux.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/linux.yml)
 
 <p align="center">
-  <img src="https://github.com/darklord-end/jellogram-desktop/blob/dev/foreground.png" width="200" alt="JelloGram Logo">
+  <img src="https://github.com/darklord-end/jellogram-desktop/blob/dev/icon.png" width="200" alt="JelloGram Logo">
 </p>
 
 This is the complete source code and the build instructions for the official [Telegram][telegram] messenger desktop client, based on the [Telegram API][telegram_api] and the [MTProto][telegram_proto] secure protocol.
