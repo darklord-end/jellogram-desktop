@@ -1,8 +1,8 @@
 # <img src="https://github.com/darklord-end/jellogram-desktop/blob/dev/foreground.png" width="32" height="32" align="Top"> JelloGram Desktop – Fork of official Telegram Desktop for Jellogram servers
 
 ![Version](https://img.shields.io/badge/version-latest-blue?style=flat-square&label=version&logo=telegram)
-[![Build Status Windows](https://github.com/darklord-end/jellogram-desktop/actions/workflows/windows.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/windows.yml)
-[![Build Status macOS](https://github.com/darklord-end/jellogram-desktop/actions/workflows/macos.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/macos.yml)
+[![Build Status Windows](https://github.com/darklord-end/jellogram-desktop/actions/workflows/win.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/win.yml)
+[![Build Status macOS](https://github.com/darklord-end/jellogram-desktop/actions/workflows/mac.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/mac.yml)
 [![Build Status Linux](https://github.com/darklord-end/jellogram-desktop/actions/workflows/linux.yml/badge.svg)](https://github.com/darklord-end/jellogram-desktop/actions/workflows/linux.yml)
 
 <p align="center">
