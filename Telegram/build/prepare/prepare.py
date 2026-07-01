@@ -1549,6 +1549,7 @@ win:
         -no-feature-netlistmgr ^
         -nomake examples ^
         -nomake tests ^
+        -skip qtimageformats ^
         -platform win32-msvc
 
     jom -j%NUMBER_OF_PROCESSORS%
